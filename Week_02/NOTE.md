@@ -38,13 +38,13 @@
 
 * 典型题目：（具体解析看题目链接）
 
-  * [有效的字母异位词](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/242_leetcode_valid-anagram.java)
+  * [有效的字母异位词](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/0242_leetcode_valid-anagram.java)
 
-  * [字母异位词的分组](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/049_leetcode_group-anagrams.java)
+  * [字母异位词的分组](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/0049_leetcode_group-anagrams.java)
 
-  * [两数之和](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/001_leetcode_two-sum.java)
+  * [两数之和](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/0001_leetcode_two-sum.java)
 
-  * [两个数组的交集 II](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/350_leetcode_intersection-of-two-arrays-ii.java)
+  * [两个数组的交集 II](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/0350_leetcode_intersection-of-two-arrays-ii.java)
 
     ![intersect](/Users/yuyiran/Desktop/algorithm008-class01/Week_02/intersect.png)
 
@@ -61,8 +61,9 @@
 * 中序遍历inorder： 左根右
 * 后序遍历postorder：左右根
 * 典型题目：（熟悉递归代码）
-  * 二叉树的前序遍历
-  * 二叉树的中序遍历
+  * [二叉树的前序遍历](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/0144_leetcode_binary-tree-preorder-traversal.java)
+  * [二叉树的中序遍历](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/0094_leetcode_binary-tree-inorder-traversal.java)
+  
   * N叉树的后序遍历
   * N叉树的前序遍历
   * N叉树的层序遍历
@@ -84,5 +85,5 @@
   * 最小k个数
   * 滑动窗口
   * 前k个高频元素
-  * 丑数
+  * [丑数](https://github.com/yyr0717/algorithm008-class01/blob/master/Week_02/*049_leetcode_choushu.java)
 
